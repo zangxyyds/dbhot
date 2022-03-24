@@ -6,3 +6,5 @@ print('第三版本')
 print('第四个版本')
 
 print('bug')
+
+print('bug2')
